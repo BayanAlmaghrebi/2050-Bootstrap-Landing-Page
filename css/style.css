@@ -45,5 +45,30 @@ border-radius: 35px;
 }
 
 .aboutus-img{
-    margin-left: -330px;
+    vertical-align: middle;
+    margin-left: -110px;
+}
+
+.subtitle-style{
+color: #6C63FF;
+font-weight: 700;
+font-size: 24px;
+}
+
+.title-style{
+font-weight: 700;
+font-size: 40px;
+}
+
+.p-style{
+color: #666666;
+font-size: 18px;
+line-height: 1.55;
+
+}
+
+.link-style{
+ font-weight: 700;
+ color: black;
+
 }
