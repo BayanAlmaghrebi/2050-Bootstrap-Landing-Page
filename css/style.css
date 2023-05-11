@@ -72,3 +72,21 @@ line-height: 1.55;
  color: black;
 
 }
+
+.service-image{
+    border-radius: 50%;
+    background-color: #F3F9FB;
+    margin-top: 15px;
+    
+}
+
+.service-img{
+    margin-top: -60px;
+}
+
+.service-icon{
+    background-color: #6C63FF;
+    padding: 15px;
+    width: 55px;
+    border-radius: 50%;
+}
