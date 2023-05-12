@@ -90,3 +90,11 @@ line-height: 1.55;
     width: 55px;
     border-radius: 50%;
 }
+
+.full-width-section{
+    background-color: #F3F9FB;
+}
+
+.why-choose-img{
+    margin-left: -50px;
+}
