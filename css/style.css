@@ -98,3 +98,7 @@ line-height: 1.55;
 .why-choose-img{
     margin-left: -50px;
 }
+
+.mycard{
+  border-bottom:   3px solid #6C63FF;
+}
