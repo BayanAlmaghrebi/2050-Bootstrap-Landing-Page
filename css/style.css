@@ -102,3 +102,56 @@ line-height: 1.55;
 .mycard{
   border-bottom:   3px solid #6C63FF;
 }
+
+.feature-icon {
+    width: 60px;
+    border-radius: 50%;
+    background-color: #6c63ff;
+    height: 60px;
+    line-height: 3.5;
+    text-align: center;
+
+}
+
+.totop {
+    padding: 12px 15px;
+    background-color: #6c63ff;
+    color: white;
+    border-radius: 5px;
+    position: sticky;
+    bottom: 20px;
+    float: right;
+    right: 10px;
+    /* transition: 2s all ease; */
+}
+
+.blog-link {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.blog-card img{
+    transition: all .4s ease-in-out;
+}
+
+.blog-card:hover img {
+    transform: scale(1.1)rotate(-5deg);
+}
+
+.mycard{
+    transition: all 0.4s;
+}
+
+.mycard:hover{
+    margin-top: -20px;
+}
+
+
+.service-icon{
+    transition: all 0.4s;
+}
+
+.service-card:hover .service-icon{
+    margin-left: 30px;
+}
